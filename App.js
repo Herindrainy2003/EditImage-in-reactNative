@@ -6,7 +6,7 @@ import * as ImagePicker from "expo-image-picker";
 import { useState } from "react";
 import IconsButtons from "./Components/IconButtons";
 import Circlebuttons from "./Components/CircleBuuttons";
-
+import 
 export default function App() {
   const PlaceHolderImage = require("./assets/images/background-image.png");
 
